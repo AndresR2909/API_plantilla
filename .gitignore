@@ -1,0 +1,4 @@
+#carpeta modulos
+node_modules/
+#archivo con conexion del string
+conexion_string.txt
